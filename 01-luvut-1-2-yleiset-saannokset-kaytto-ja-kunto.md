@@ -16,7 +16,7 @@ Pykälä määrittää lain soveltamisalan sopimustyypin kautta. Laki koskee sop
 
 Toinen momentti sallii sen, että huoneenvuokrasopimuksella luovutetaan myös maa-alue käytettäväksi huoneiston yhteydessä, esimerkiksi piha- tai puutarha-alue. Maa-alue ei tällöin muodosta erillistä vuokrasuhdetta, vaan se seuraa huoneiston vuokrasuhteen kohtaloa.
 
-Kolmas momentti ulottaa lain soveltamisen tietyiltä osin vuokralaisen käytössä oleviin kiinteistön tai rakennuksen yhteisiin tiloihin ja laitteisiin. Ilmaus "siten kuin jäljempänä säädetään" merkitsee, että yhteistiloja koskee vain se, mitä laissa niistä erikseen säädetään. Tällaisia säännöksiä ovat muun muassa 20 §:n 1 momentin sopimusmahdollisuus kunnossapidosta, 25 §:n 4 momentti vuokralaisen vahingonkorvausvastuusta sekä 61 §:n 2 momentti, jonka mukaan purkamisperusteet ulottuvat soveltuvin osin yhteisiin tiloihin. Pykälä toimii siten koko lain rajausnormina, jota 2 § täydentää soveltamisalan rajoituksilla.
+Kolmas momentti ulottaa lain soveltamisen tietyiltä osin vuokralaisen käytössä oleviin kiinteistön tai rakennuksen yhteisiin tiloihin ja laitteisiin. Ilmaus "siten kuin jäljempänä säädetään" merkitsee, että yhteistiloja koskee vain se, mitä laissa niistä erikseen säädetään. Tällaisia säännöksiä ovat muun muassa 20 §:n 1 momentin sopimusmahdollisuus kunnossapidosta, 25 §:n 4 momentti vuokralaisen vahingonkorvausvastuusta sekä 61 §:n 2 momentti, jonka mukaan 1 momentin 2–6 kohdan purkamisperusteet koskevat myös vuokralaisen käytössä olevia yhteisiä tiloja. Pykälä toimii siten koko lain rajausnormina, jota 2 § täydentää soveltamisalan rajoituksilla.
 
 ### 2 § — Soveltamisalan rajoitukset
 
